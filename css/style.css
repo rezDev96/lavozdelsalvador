@@ -1,0 +1,26 @@
+h2{
+  font-weight: 300;
+}
+h4{
+  font-weight: 300;
+}
+h5{
+  font-weight: 300;
+}
+.section-about{
+  font-size: 22px;
+}
+.section-about h4{
+  margin-bottom: 2em;
+}
+.section-about p{
+ padding: 15% 0;
+ font-weight: 400;
+}
+.media-icons li{
+  display: inline-block;
+  margin: 0 8px;
+}
+footer a{
+  color: inherit;
+}
