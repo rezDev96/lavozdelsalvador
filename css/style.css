@@ -33,9 +33,9 @@ footer a{
   color: inherit;
 }
 /* Mobile Devices */
-@media(max-width: 767px) {
+@media(max-width: 600px) {
   nav .brand-logo {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   .slider h2{
     font-size:2.8rem;
