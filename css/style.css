@@ -75,7 +75,7 @@ nav .brand-logo{
 }
 /* Location */
 #location{
-  background-image: url(/img/location.jpg);
+  background-image: url('/img/location.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
