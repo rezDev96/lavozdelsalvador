@@ -84,7 +84,7 @@ nav .brand-logo{
 #location ul li{
   font-size: 1.5rem;
 }
-#location a{
+#location .map{
   font-size: 1.3rem;
   color: #fff;
 }
@@ -93,8 +93,8 @@ nav .brand-logo{
   font-weight: 300;
 }
 /* Footer */
-footer a{
-  color: inherit;
+footer{
+  margin-top: 70px;
 }
 /* Tablet Devices */
 @media(max-width: 992px) {
