@@ -14,4 +14,6 @@ const mb = document.querySelectorAll('.materialboxed');
 M.Materialbox.init(mb,{});
 // ScrollSpy
 const ss = document.querySelectorAll('.scrollspy');
-M.ScrollSpy.init(ss, {});
+M.ScrollSpy.init(ss, {
+  scrollOffset: 50
+});
